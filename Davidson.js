@@ -1,1 +1,1 @@
-const Davidson = "I don't understander git flow";
+const Davidson = "you will to understand git flow";
